@@ -26,6 +26,6 @@ button {
 
 nav {display: flex;}
 
-list {
-  
+nav a {
+  text-decoration-line: none
 }

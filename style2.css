@@ -4,9 +4,14 @@
 }
 
 html {
-    background-color: rgb(100, 100, 100)
+    background-color: #000000
 }
 
-h1{
-    
+
+nav a {
+  text-decoration-line: none
+}
+
+* {
+    color: #00ff37;
 }
