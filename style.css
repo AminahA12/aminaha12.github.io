@@ -29,3 +29,15 @@ nav {display: flex;}
 nav a {
   text-decoration-line: none
 }
+
+div {
+  text-align: center;
+}
+
+div button {
+  background-color: rgb(171, 194, 89);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  width: 50%;
+  height: 200px;
+}
