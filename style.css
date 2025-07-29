@@ -1,43 +1,46 @@
+* {
+  color: pink
+}
+
 h1 {
-  color: yellow;
-  font-size: 70px;
+  color: pink;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 67px;
 }
 
 body {
-  background-color: yellowgreen;
+  background-image:  url(fav.png), url(sush.jpg);
+  background-repeat: repeat;
+  background-position: 10px 10px top right;
+  background-size: 10%
 }
 
-.space {
-  padding: 10px;
+ol {
+  color: orange;
 }
 
-.pikachu {
-  color: orangered;
-  font-size: 40px
+p {
+   color: limegreen;
 }
 
-button {
-  background-color: red;
+table {
+  color: azure;
 }
 
-.charmander {
-  color: whitesmoke
+.fish {
+  color: purple;
+  padding-right: 35px;
+  border: 10px dotted red
 }
 
-nav {display: flex;}
-
-nav a {
-  text-decoration-line: none
+a:visited {
+  color: yellow
 }
 
-div {
-  text-align: center;
+p:hover {
+  color: greenyellow;
 }
 
-div button {
-  background-color: rgb(171, 194, 89);
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 50px;
-  width: 50%;
-  height: 200px;
+td {
+  border: 15px dashed yellow
 }
